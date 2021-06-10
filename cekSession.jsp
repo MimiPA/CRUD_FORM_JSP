@@ -6,7 +6,7 @@
 	if (username == null) {
         %>
 		<script>
-			alert('Session Habis');
+			alert('Session Habis bro');
 			document.location='login.jsp';
 		</script>
 		<%
